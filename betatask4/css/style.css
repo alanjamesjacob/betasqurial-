@@ -1,0 +1,246 @@
+body {
+  margin: 0 auto;
+  background-color: #eeeee4;
+}
+#navbar {
+  height: 90px;
+  background-color: #616040;
+  display: flex;
+  border-bottom: #eeeee4 solid 1px;
+}
+.left {
+  float: left;
+  background-color: #616040;
+  display: flex;
+}
+.left img {
+  height: 50px;
+  padding: 10px;
+}
+.left h2 {
+  display: inline;
+  color: white;
+}
+.right {
+  float: right;
+  float: right;
+  justify-content: space-between;
+  background-color: #616040;
+}
+.right img {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  padding: 5px;
+  float: right;
+  justify-content: space-between;
+  margin: 10px 10px 10px 1300px;
+}
+.main-container {
+  background-color: #eeeee4;
+  height: 0px;
+  margin-top: 0px;
+}
+.dash {
+  margin-left: 280px;
+  text-decoration: underline;
+}
+.side-container {
+  background-color: #616040;
+  height: 580px;
+  width: calc(15%);
+  padding: 5px;
+  margin-top: -20px;
+}
+.box {
+  background-color: #b0b9b7;
+  margin: 100px 10px 0 10px;
+  margin-right: 20px;
+  display: flex;
+}
+.container1 {
+  background-color: #0cabff;
+  height: 150px;
+  width: calc(75% / 4);
+  float: right;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  position: relative;
+  color: #fff;
+  margin-top: 50px;
+}
+
+.container2 {
+  background-color: #f33708;
+  height: 150px;
+  width: calc(75% / 4);
+  color: #fff;
+  position: relative;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  float: right;
+  margin-top: 50px;
+}
+.container3 {
+  background-color: #b231e9;
+  height: 150px;
+  width: calc(75% / 4);
+  text-align: center;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  float: right;
+  margin-top: 50px;
+}
+.container4 {
+  background-color: #0abc3c;
+  height: 150px;
+  width: calc(75% / 4);
+  display: flex;
+  float: right;
+  text-align: center;
+  justify-content: center;
+  color: #fff;
+  margin-top: 50px;
+}
+.one {
+  background-color: #f33708;
+  height: 190px;
+  width: 190px;
+  border-radius: 50%;
+  float: right;
+  display: flex;
+  justify-content: center;
+  margin: 50px 50px 0px 50px;
+}
+.one h4 {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  padding: 18px;
+  text-align: center;
+}
+.two {
+  background-color: #04a6fe;
+  height: 190px;
+  width: 190px;
+  border-radius: 59%;
+  float: right;
+  display: flex;
+  justify-content: center;
+  margin: 50px 50px 0px 50px;
+}
+.two h4 {
+  display: flex;
+  text-align: center;
+  padding: 55px;
+}
+.three {
+  background-color: #b231e9;
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  float: right;
+  display: flex;
+  justify-content: center;
+  margin: 50px 50px 0px 50px;
+}
+.three h4 {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  padding: 35px;
+  text-align: center;
+}
+.innerthree {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  display: flex;
+  align-self: center;
+  background-color: #0abc3c;
+}
+.innertwo {
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  display: flex;
+  align-self: center;
+  background-color: #fff;
+}
+.innerone {
+  height: 160px;
+  width: 160px;
+  border-radius: 50%;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  background-color: #ff7967;
+}
+.inner {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  display: flex;
+  align-self: center;
+  background-color: #b231e9;
+}
+.bar-container {
+  height: 190px;
+  width: 200px;
+  float: right;
+  margin: 60px 60px 0px 60px;
+  border-bottom: #463e3c 9px solid;
+  background-color: #eeeee4;
+}
+
+.bar2 {
+  height: 180px;
+  width: 9px;
+  float: left;
+  margin: 0px;
+  margin-top: 10px;
+  background-color: #1de657;
+}
+.bar3 {
+  height: 100px;
+  width: 9px;
+  margin: 12px;
+  margin-top: 90px;
+  float: left;
+  background-color: #ff3e0c;
+}
+.bar4 {
+  height: 120px;
+  width: 9px;
+  margin: 12px;
+  margin-top: 70px;
+  float: left;
+  background-color: #b231e9;
+}
+.bar5 {
+  height: 180px;
+  width: 9px;
+  margin: 12px;
+  margin-top: 10px;
+  float: left;
+  background-color: #0ce4f4;
+}
+.bar6 {
+  height: 150px;
+  width: 9px;
+  margin: 12px;
+  margin-top: 40px;
+  float: left;
+  background-color: #463e3c;
+}
+.bar7 {
+  height: 100px;
+  width: 9px;
+  margin: 12px;
+  margin-top: 90px;
+  float: left;
+  background-color: #ff3e0c;
+}
