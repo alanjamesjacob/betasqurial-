@@ -2,7 +2,7 @@
 
 Assignments
 
-## Tasks
+## tasks
 
 | Requirements                     | Outputs                      |
 | -------------------------------- | ---------------------------- |
@@ -10,7 +10,7 @@ Assignments
 | ![task-3](taskImages/image3.jpg) | ![out-2](outImages/pic3.png) |
 | ![task-4](taskImages/image4.jpg) | ![out-2](outImages/pic4.png) |
 
-## Reading tasks
+## reading-tasks
 
 - [Home](https://www.w3schools.com/html/default.asp)
 - [Introduction](https://www.w3schools.com/html/html_intro.asp)
@@ -31,11 +31,11 @@ Assignments
 - [Classes](https://www.w3schools.com/html/html_classes.asp)
 - [Id](https://www.w3schools.com/html/html_id.asp)
 
-## Website link
+## website-link
 
 [My-tasks](https://alanjamesjacob.github.io/betasqurial-/)
 
-## Git commands
+## git-commands
 
 1. git config Config git user. EX: git config --global user.name "alan-james",git config user.email "jamespaadikkal@gmail.com"
 2. git clone clone a remote git repositery to your local. Ex: git clone "add user https lijnk or ssh key"
@@ -43,7 +43,7 @@ Assignments
 4. git commit commit changes to git
 5. git push push your local commits to repo
 
-## Linux commands
+## linux-commands
 
 - cd - change current directory
 - ls - list contents of a directory
