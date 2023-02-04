@@ -1,4 +1,4 @@
-# betasqurial-
+# Betasqurial-tasks
 
 Assignments
 
@@ -10,7 +10,7 @@ Assignments
 | ![task-3](taskImages/image3.jpg) | ![out-2](outImages/pic3.png) |
 | ![task-4](taskImages/image4.jpg) | ![out-2](outImages/pic4.png) |
 
-### Reading tasks
+## Reading tasks
 
 - [Home](https://www.w3schools.com/html/default.asp)
 - [Introduction](https://www.w3schools.com/html/html_intro.asp)
@@ -30,3 +30,22 @@ Assignments
 - [Images](https://www.w3schools.com/html/html_images.asp)
 - [Classes](https://www.w3schools.com/html/html_classes.asp)
 - [Id](https://www.w3schools.com/html/html_id.asp)
+
+## Website link
+
+[My-tasks](https://alanjamesjacob.github.io/betasqurial-/)
+
+## Git commands
+
+1. git config Config git user. EX: git config --global user.name "alan-james",git config user.email "jamespaadikkal@gmail.com"
+2. git clone clone a remote git repositery to your local. Ex: git clone "add user https lijnk or ssh key"
+3. git add Add your file changes to git.Ex:git add . :this will add all file to the repo git add README.md :this will add the readme file we can specify using the file name
+4. git commit commit changes to git
+5. git push push your local commits to repo
+
+## Linux commands
+
+- cd - change current directory
+- ls - list contents of a directory
+- pwd- dispaly current working directory path
+- cat- Display contents of a file
