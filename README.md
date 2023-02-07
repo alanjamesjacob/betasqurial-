@@ -4,11 +4,11 @@ Assignments
 
 ## tasks
 
-| Requirements                 | Outputs                         |
-| ---------------------------- | ------------------------------- |
-| ![task-2](images/image2.jpg) | ![out-2](requirements/pic2.jpg) |
-| ![task-3](images/image3.jpg) | ![out-2](requirements/pic3.png) |
-| ![task-4](images/image4.jpg) | ![out-2](requirements/pic4.png) |
+| Requirements                       | Outputs                   |
+| ---------------------------------- | ------------------------- |
+| ![task-2](requirements/image2.jpg) | ![out-2](images/pic2.jpg) |
+| ![task-3](requirements/image3.jpg) | ![out-2](images/pic3.png) |
+| ![task-4](requirements/image4.jpg) | ![out-2](images/pic4.png) |
 
 ## reading-tasks
 
