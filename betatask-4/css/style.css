@@ -70,7 +70,6 @@ body {
   color: #fff;
   margin-top: 50px;
 }
-
 .container2 {
   background-color: #ff3e0c;
   height: 150px;
@@ -195,13 +194,6 @@ body {
   border-bottom: #0f0d0c 8px solid;
   background-color: #eeeee4;
 }
-/*.bar1{
-    height: 8px ;
-    width: 200px;
-    margin: 0px;
-    float: left;
-    background-color: #574C4A;
-}*/
 .bar2 {
   height: 180px;
   width: 8px;
