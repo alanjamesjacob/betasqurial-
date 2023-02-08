@@ -35,7 +35,7 @@ Assignments
 
 ## website-link
 
-[My-tasks](https://alanjamesjacob.github.io/betasqurial-/)
+[live](https://alanjamesjacob.github.io/betasqurial-/)
 
 ## git-commands
 
