@@ -1,8 +1,30 @@
-# Betasqurial-tasks
+# betasqurial-tasks
 
 Assignments
 
 [live](https://alanjamesjacob.github.io/betasqurial-/)
+
+## git-commands
+
+1. `git config` Config git user. EX: git config --global user.name "alan-james",git config user.email "jamespaadikkal@gmail.com"
+2. `git clone` clone a remote git repositery to your local. Ex: git clone "add user https lijnk or ssh key"
+3. `git add` Add your file changes to git.Ex:git add . :this will add all file to the repo git add README.md this will add the readme file we can specify using the file name
+4. `git commit` commit changes to git
+5. `git push` push your local commits to repo
+6. `git pull` This command fetches and merges changes on the remote server to your working directory
+7. `git reset`This command undoes all the commits after the specified commit and preserves the changes locally. EX:`git reset [commit]`
+
+## linux-commands
+
+- `cd` - change current directory
+- `ls` - list contents of a directory
+- `pwd`- dispaly current working directory path
+- `cat`- Display contents of a file
+- `rm` - The rm command is used to remove a file. EX: `rm <file name>`
+- `clear` - To clear the screen EX:`clear`
+- `mkdir` - To create new directory EX: `mkdir projects`
+
+## tasks
 
 | Requirements                             | Outputs                         |
 | ---------------------------------------- | ------------------------------- |
@@ -32,23 +54,3 @@ Assignments
 - [Id](https://www.w3schools.com/html/html_id.asp)
 - [Tables](https://www.w3schools.com/html/html_tables.asp)
 - [Favicon](https://www.w3schools.com/html/html_favicon.asp)
-
-## git-commands
-
-1. `git config` Config git user. EX: git config --global user.name "alan-james",git config user.email "jamespaadikkal@gmail.com"
-2. `git clone` clone a remote git repositery to your local. Ex: git clone "add user https lijnk or ssh key"
-3. `git add` Add your file changes to git.Ex:git add . :this will add all file to the repo git add README.md this will add the readme file we can specify using the file name
-4. `git commit` commit changes to git
-5. `git push` push your local commits to repo
-6. `git pull` This command fetches and merges changes on the remote server to your working directory
-7. `git reset`This command undoes all the commits after the specified commit and preserves the changes locally. EX:`git reset [commit]`
-
-## linux-commands
-
-- `cd` - change current directory
-- `ls` - list contents of a directory
-- `pwd`- dispaly current working directory path
-- `cat`- Display contents of a file
-- `rm` - The rm command is used to remove a file. EX: `rm <file name>`
-- `clear` - To clear the screen EX:`clear`
-- `mkdir` - To create new directory EX: `mkdir projects`
