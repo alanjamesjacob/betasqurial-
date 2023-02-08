@@ -2,7 +2,7 @@
 
 Assignments
 
-## tasks
+[live](https://alanjamesjacob.github.io/betasqurial-/)
 
 | Requirements                             | Outputs                         |
 | ---------------------------------------- | ------------------------------- |
@@ -32,10 +32,6 @@ Assignments
 - [Id](https://www.w3schools.com/html/html_id.asp)
 - [Tables](https://www.w3schools.com/html/html_tables.asp)
 - [Favicon](https://www.w3schools.com/html/html_favicon.asp)
-
-## website-link
-
-[live](https://alanjamesjacob.github.io/betasqurial-/)
 
 ## git-commands
 
