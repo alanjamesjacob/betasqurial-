@@ -39,7 +39,7 @@ Assignments
 
 1. git config Config git user. EX: git config --global user.name "alan-james",git config user.email "jamespaadikkal@gmail.com"
 2. git clone clone a remote git repositery to your local. Ex: git clone "add user https lijnk or ssh key"
-3. git add Add your file changes to git.Ex:git add . :this will add all file to the repo git add README.md :this will add the readme file we can specify using the file name
+3. git add Add your file changes to git.Ex:git add . :this will add all file to the repo git add README.md this will add the readme file we can specify using the file name
 4. git commit commit changes to git
 5. git push push your local commits to repo
 
