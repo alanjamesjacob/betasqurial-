@@ -28,7 +28,7 @@ Assignments
 
 | Requirements                             | Outputs                         |
 | ---------------------------------------- | ------------------------------- |
-| ![task-2](image/requirements/image2.jpg) | ![out-2](image/images/pic2.jpg) |
+| ![task-2](image/requirements/image2.jpg) | ![out-2](image/images/pic2.png) |
 | ![task-3](image/requirements/image3.jpg) | ![out-2](image/images/pic3.png) |
 | ![task-4](image/requirements/image4.jpg) | ![out-2](image/images/pic4.png) |
 
