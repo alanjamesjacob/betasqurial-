@@ -2,9 +2,7 @@
 
 Assignments
 
-[live](https://alanjamesjacob.github.io/betasqurial-/)
-[Stackoverflow](https://stackoverflow.com/users/21198488/alan-james)
-[LinkedIn](https://www.linkedin.com/in/alan-james-1b92a1186/)
+-[live](https://alanjamesjacob.github.io/betasqurial-/) -[Stackoverflow](https://stackoverflow.com/users/21198488/alan-james) -[LinkedIn](https://www.linkedin.com/in/alan-james-1b92a1186/)
 
 ## git-commands
 
