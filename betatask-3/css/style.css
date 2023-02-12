@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(138, 255, 138);
+  background-color: #301b1a;
   margin: 0 auto;
 }
 #navbar {
-  background-color: #ed190e;
+  background-color: #5c305c;
   height: 80px;
   margin-bottom: 15px;
   display: flex;
@@ -14,7 +14,7 @@ body {
   display: flex;
 }
 .left h2 {
-  color: aquamarine;
+  color: #fff;
 }
 .right {
   float: right;
@@ -27,12 +27,12 @@ body {
   padding: 10px;
 }
 .right a {
-  color: rgb(143, 242, 242);
+  color: #fff;
   padding: 10px;
   text-decoration: none;
 }
 #main-container {
-  background-color: #c5d1cf;
+  background-color: #d2d9e9;
   height: 230px;
   margin: 20px 20px;
   margin-bottom: 20px;
@@ -41,28 +41,28 @@ body {
   justify-content: space-between;
 }
 .box1 {
-  background-color: rgb(237, 253, 7);
+  background-color: #85df7f;
   height: 180px;
   width: 270px;
   padding: 10px;
   margin: 10px 10px;
 }
 .box2 {
-  background-color: rgb(237, 253, 7);
+  background-color: #85df7f;
   height: 180px;
   width: 270px;
   padding: 10px;
   margin: 10px 10px 10px 10px;
 }
 .second-container {
-  background-color: rgb(238, 9, 196);
+  background-color: #b8423e;
   height: 300px;
   margin: 20px 20px;
   margin-bottom: 20px;
   padding: 10px;
 }
 .second-box {
-  background-color: #ebab15;
+  background-color: #dadada;
   height: 290px;
-  border: 5px solid rgb(3, 70, 3);
+  border: 5px solid #3c9434;
 }
