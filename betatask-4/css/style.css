@@ -4,13 +4,13 @@ body {
 }
 #navbar {
   height: 90px;
-  background-color: #beba3b;
+  background-color: #625c5c;
   display: flex;
-  border-bottom: #eeeee4 solid 1px;
+  border-bottom: #eeeee4 solid 4px;
 }
 .left {
   float: left;
-  background-color: #beba3b;
+  background-color: #625c5c;
   display: flex;
 }
 .left img {
@@ -25,7 +25,7 @@ body {
   float: right;
   float: right;
   justify-content: space-between;
-  background-color: #beba3b;
+  background-color: #625c5c;
 }
 .right img {
   height: 60px;
@@ -42,72 +42,73 @@ body {
   margin-top: 0px;
 }
 .dash {
-  margin-left: 250px;
+  margin-left: 215px;
+  margin-bottom: 2px;
   text-decoration: underline;
 }
 .side-container {
-  background-color: #beba3b;
+  background-color: #625c5c;
   height: 620px;
-  width: calc(15%);
+  width: calc(12%);
   padding: 5px;
   margin-top: -22px;
 }
 .box {
-  background-color: #c5d1cf;
+  background-color: #ececec;
   margin: 100px 10px 0 10px;
   margin-right: 20px;
   display: flex;
 }
 .container1 {
-  background-color: #0cabff;
+  background-color: #1abcfd;
   height: 150px;
-  width: calc(75% / 4);
+  width: calc(79% / 4);
   float: right;
   display: flex;
   text-align: center;
   justify-content: center;
   position: relative;
   color: #fff;
-  margin-top: 50px;
+  margin-top: 5px;
 }
 .container2 {
-  background-color: #ff3e0c;
+  background-color: #f34e1e;
   height: 150px;
-  width: calc(75% / 4);
+  width: calc(79% / 4);
   color: #fff;
   position: relative;
   display: flex;
   text-align: center;
   justify-content: center;
   float: right;
-  margin-top: 50px;
+  margin-top: 5px;
 }
 .container3 {
-  background-color: #ae1eee;
+  background-color: #a259ff;
   height: 150px;
-  width: calc(75% / 4);
+  width: calc(79% / 4);
   text-align: center;
   color: #fff;
   display: flex;
   justify-content: center;
   float: right;
-  margin-top: 50px;
+  margin-top: 5px;
 }
 .container4 {
-  background-color: #1de657;
+  background-color: #0ace82;
   height: 150px;
-  width: calc(75% / 4);
+  width: calc(79% / 4);
   display: flex;
   float: right;
   text-align: center;
   justify-content: center;
   color: #fff;
-  margin-top: 50px;
+  margin-top: 5px;
 }
 .one {
   background-color: #ff3e0c;
-  height: 190px;
-  width: 190px;
+  height: 250px;
+  width: 250px;
   border-radius: 50%;
   float: right;
   display: flex;
@@ -123,8 +124,8 @@ body {
 }
 .two {
   background-color: #0cabff;
-  height: 190px;
-  width: 190px;
+  height: 250px;
+  width: 250px;
   border-radius: 59%;
   float: right;
   display: flex;
@@ -137,9 +138,9 @@ body {
   padding: 55px;
 }
 .three {
-  background-color: #ae1eee;
-  height: 190px;
-  width: 190px;
+  background-color: #a259ff;
+  height: 250px;
+  width: 250px;
   border-radius: 50%;
   float: right;
   display: flex;
@@ -154,24 +155,24 @@ body {
   text-align: center;
 }
 .innerthree {
-  height: 120px;
-  width: 120px;
+  height: 180px;
+  width: 180px;
   border-radius: 50%;
   display: flex;
   align-self: center;
-  background-color: #101612;
+  background-color: #0ace82;
 }
 .innertwo {
-  height: 170px;
-  width: 170px;
+  height: 210px;
+  width: 210px;
   border-radius: 50%;
   display: flex;
   align-self: center;
   background-color: #fff;
 }
 .innerone {
-  height: 170px;
-  width: 170px;
+  height: 210px;
+  width: 210px;
   border-radius: 50%;
   display: flex;
   align-self: center;
