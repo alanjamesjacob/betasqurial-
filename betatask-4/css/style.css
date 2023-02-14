@@ -11,7 +11,7 @@ nav {
   justify-content: space-between;
   padding: 0 20px;
 }
-.profile {
+.picture {
   height: 55px;
   width: 55px;
   border-radius: 50%;
@@ -54,7 +54,7 @@ ul {
 a {
   color: white;
 }
-.green-text {
+.Dash {
   text-decoration: none;
   color: #30b683;
   font-size: 20px;
@@ -117,7 +117,7 @@ h2 {
   padding-left: 66px;
   justify-content: space-between;
 }
-.chart-1 {
+.round-1 {
   height: 200px;
   width: 200px;
   background-color: #a259ff;
@@ -125,7 +125,7 @@ h2 {
   display: flex;
   justify-content: center;
 }
-.chart-in-1 {
+.roundinner-1 {
   height: 120px;
   width: 120px;
   background-color: #0ace82;
@@ -133,11 +133,11 @@ h2 {
   align-self: center;
   text-align: center;
 }
-.chart-text-1 {
+.roundtext-1 {
   padding-top: 30px;
   color: white;
 }
-.chart-2 {
+.round-2 {
   height: 200px;
   width: 200px;
   background-color: #19bafe;
@@ -145,7 +145,7 @@ h2 {
   display: flex;
   justify-content: center;
 }
-.chart-in-2 {
+.roundinner-2 {
   height: 180px;
   width: 180px;
   background-color: #ffffff;
@@ -153,11 +153,11 @@ h2 {
   align-self: center;
   text-align: center;
 }
-.chart-text-2 {
+.roundtext-2 {
   padding-top: 60px;
   color: black;
 }
-.chart-3 {
+.round-3 {
   height: 200px;
   width: 200px;
   background-color: #ee531a;
@@ -165,7 +165,7 @@ h2 {
   display: flex;
   justify-content: center;
 }
-.chart-in-3 {
+.roundinner-3 {
   height: 180px;
   width: 180px;
   background-color: #ff7261;
@@ -175,7 +175,7 @@ h2 {
   display: flex;
   justify-content: center;
 }
-.chart-inn-3 {
+.roundinnest-3 {
   height: 80px;
   width: 80px;
   background-color: #a259ff;
@@ -183,11 +183,11 @@ h2 {
   align-self: center;
   text-align: center;
 }
-.chart-text-3 {
+.roundtext-3 {
   padding-top: 6px;
   color: white;
 }
-.graph-bar {
+.graph {
   height: 200px;
   width: 254px;
   background-color: #ececec;
