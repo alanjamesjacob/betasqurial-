@@ -72,7 +72,7 @@ body {
   .box-container {
     display: flex;
     flex-direction: column;
-    background-color: #543561;
+    background-color: #332121;
     justify-content: center;
     margin-top: 10px;
   }
