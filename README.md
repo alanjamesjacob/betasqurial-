@@ -15,6 +15,10 @@ Assignments
 5. `git push` push your local commits to repo
 6. `git pull` This command fetches and merges changes on the remote server to your working directory
 7. `git reset`This command undoes all the commits after the specified commit and preserves the changes locally. EX:`git reset [commit]`
+8. `git diff` - see the changes on each file
+9. `git log` - see commit history
+10. `git stash` - stash your uncommitted changes
+11. `git status` - to see the current changes as list
 
 ## linux-commands
 
