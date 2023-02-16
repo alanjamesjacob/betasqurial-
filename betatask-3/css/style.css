@@ -80,5 +80,9 @@ body {
     width: auto;
     height: auto;
     padding: 4px;
+    margin: 5px;
+  }
+  .second-container {
+    margin: 5px;
   }
 }
