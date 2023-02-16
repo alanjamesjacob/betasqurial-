@@ -67,6 +67,7 @@ body {
     width: auto;
     height: auto;
     justify-content: center;
+    margin: 5px;
   }
   .box-container {
     display: flex;
