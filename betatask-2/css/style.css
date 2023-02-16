@@ -74,11 +74,15 @@ body {
     flex-direction: column;
     background-color: #543561;
     justify-content: center;
+    margin-top: 10px;
   }
   .boxes {
     width: auto;
     height: auto;
     align-self: center;
     margin: 5px;
+  }
+  a {
+    display: none;
   }
 }
