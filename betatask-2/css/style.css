@@ -72,7 +72,7 @@ body {
   .box-container {
     display: flex;
     flex-direction: column;
-    background-color: #fff;
+    background-color: #543561;
     justify-content: center;
   }
   .boxes {
