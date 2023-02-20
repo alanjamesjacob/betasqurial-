@@ -219,6 +219,7 @@ input[type="submit"] {
   select {
     width: 85vw;
     height: 40px;
+    color: black;
   }
   .name {
     display: flex;
