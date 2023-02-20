@@ -11,8 +11,6 @@ nav {
   justify-content: space-between;
   padding: 0 20px;
   border-bottom: 3px solid rgb(163, 163, 163);
-  margin-right: -500px;
-  padding-right: 500px;
 }
 .picture {
   height: 65px;
