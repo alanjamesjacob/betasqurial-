@@ -162,10 +162,12 @@ input[type="reset"] {
   background-color: rgb(255, 114, 97);
   margin-right: 20px;
   color: #fff;
+  text-decoration: none;
 }
 input[type="submit"] {
   background-color: rgb(59, 185, 137);
   color: #fff;
+  text-decoration: none;
 }
 .master-look {
   display: flex;
