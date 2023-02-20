@@ -163,11 +163,13 @@ input[type="reset"] {
   margin-right: 20px;
   color: #fff;
   text-decoration: none;
+  font-weight: 300;
 }
 input[type="submit"] {
   background-color: rgb(59, 185, 137);
   color: #fff;
   text-decoration: none;
+  font-weight: 300;
 }
 .master-look {
   display: flex;
