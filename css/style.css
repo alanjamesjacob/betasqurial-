@@ -35,3 +35,18 @@ body {
 a:hover {
   background-color: rgb(215, 78, 78);
 }
+@media screen and (max-width: 750px) {
+  .a-text {
+    flex-direction: column;
+  }
+  .master {
+    display: flex;
+    width: 50vw;
+    height: 50vh;
+    align-self: center;
+    margin: 25px;
+  }
+  .space {
+    width: auto;
+  }
+}
