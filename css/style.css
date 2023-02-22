@@ -35,6 +35,9 @@ body {
 a:hover {
   background-color: rgb(215, 78, 78);
 }
+.tag {
+  margin-left: 50px;
+}
 @media screen and (max-width: 750px) {
   .a-text {
     flex-direction: column;
