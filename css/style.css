@@ -36,21 +36,24 @@ a:hover {
   background-color: rgb(215, 78, 78);
 }
 .tag {
+  justify-content: center;
+  margin-top: 20px;
   margin-left: 50px;
 }
 @media screen and (max-width: 750px) {
   .a-text {
     flex-direction: column;
+    margin-right: 39px;
   }
   .master {
     display: flex;
-    width: 50vw;
-    height: 50vh;
+    width: 70vw;
+    height: 90vh;
     align-self: center;
     margin: 100px;
   }
   .tag {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
   }
   .space {
     display: flex;
