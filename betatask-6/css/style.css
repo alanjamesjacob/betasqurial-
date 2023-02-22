@@ -205,14 +205,17 @@ input[type="submit"] {
   input[type="text"] {
     width: 85vw;
     height: 40px;
+    border-radius: 0;
   }
   input[type="tel"] {
     width: 85vw;
     height: 40px;
+    border-radius: 0;
   }
   input[type="email"] {
     width: 85vw;
     height: 40px;
+    border-radius: 0;
   }
   select {
     width: 85vw;
@@ -242,6 +245,9 @@ input[type="submit"] {
     display: flex;
     flex-direction: row;
     margin-top: 20px;
-    margin-left: 65%;
+    margin-left: 60%;
+  }
+  textarea {
+    width: 85vw;
   }
 }
