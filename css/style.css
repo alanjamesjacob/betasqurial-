@@ -38,19 +38,18 @@ a:hover {
 .tag {
   justify-content: center;
   margin-top: 20px;
-  margin-left: 50px;
+  margin-left: 40px;
 }
 @media screen and (max-width: 750px) {
   .a-text {
     flex-direction: column;
-    margin-right: 39px;
+    margin-right: 45px;
   }
   .master {
     display: flex;
-    width: 70vw;
+    width: 100vw;
     height: 90vh;
     align-self: center;
-    margin: 100px;
   }
   .tag {
     padding-bottom: 10px;
@@ -58,6 +57,8 @@ a:hover {
   .space {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    margin-right: 50px;
   }
   h1 {
     text-decoration: underline;
