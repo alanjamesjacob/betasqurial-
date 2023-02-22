@@ -44,9 +44,16 @@ a:hover {
     width: 50vw;
     height: 50vh;
     align-self: center;
-    margin: 25px;
+    margin: 100px;
+  }
+  .tag {
+    padding-bottom: 20px;
   }
   .space {
-    width: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  h1 {
+    text-decoration: underline;
   }
 }
