@@ -249,7 +249,7 @@ input[type="submit"] {
   }
   textarea {
     display: flex;
-    width: 70vw;
+    width: 80vw;
     align-items: center;
   }
 }
