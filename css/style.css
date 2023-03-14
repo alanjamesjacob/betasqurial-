@@ -47,9 +47,8 @@ a:hover {
   }
   .master {
     display: flex;
-    width: 100vw;
-    height: 90vh;
-    align-self: center;
+    width: 300px;
+    height: 300px;
   }
   .tag {
     padding-bottom: 10px;
